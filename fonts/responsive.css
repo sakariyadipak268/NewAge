@@ -1,0 +1,560 @@
+
+@media (min-width: 1601px) and (max-width: 1900px){
+.footer-wapper .top-footer .mid-part{padding:0 30px;}
+}
+
+@media (min-width: 1401px) and (max-width: 1600px){
+.header-wapper{padding:15px 75px 17px 75px} 
+.header-wapper .navi > ul > li{margin: 0 50px 0 0;}
+.header-wapper .searchbar{right:15px;}
+
+.content-wapper .form-block .form-box form .form-row .form-input{max-width: 250px;}
+
+.content-wapper .form-block .form-box form .form-row .input-submit{margin:22px 20px 0 0}
+
+.footer-wapper .top-footer{padding:0 55px;}
+.footer-wapper .top-footer .mid-part{padding:0 30px;}
+.footer-wapper .top-footer .mid-part .inner-top ul li{margin:0 15px 0 0;}
+.footer-wapper .bottom-footer{padding:10px 55px;}
+
+
+
+.content-wapper .about-top-block .top-block{padding:52px 0;}
+.content-wapper .about-top-block .top-block h2{margin:0 0 42px 0;}
+
+
+.content-wapper .solar-md-sample .solar-md-box .solar-md-bx p{padding:0 15px;}
+}
+
+@media (min-width: 1200px) and (max-width: 1400px){
+.header-wapper{padding:15px 55px 17px 55px} 
+.header-wapper .navi > ul > li{margin: 0 40px 0 0;}
+.header-wapper .searchbar{right:5px;}
+
+.banner-wapper .banner-block{padding: 0 0 8.08% 0; background-size:contain !important;}
+.banner-wapper .banner-block.resi{padding:0 0 03.01% 0;}
+.banner-wapper .banner-block .banner-cap{margin: 80px 0 0 0px;}
+
+.content-wapper .about-block{padding:52px 70px;}
+.content-wapper .innovation-block{padding:54px 0;}
+.content-wapper .innovation-block h2{margin:0 0 47px 0;}
+.content-wapper .innovation-block .innovation-box p{padding:0 25px;}
+
+.content-wapper .project-block{padding:54px 30px 0 30px;}
+.content-wapper .project-block a{width:auto; padding:13px 30px;}
+.content-wapper .project-block .project-box{margin:0 0 70px 0;}
+.content-wapper .project-block .project-box p{padding:0 20px;}
+
+
+.content-wapper .testi-block{padding: 64px 0;}
+.content-wapper .testi-block .testi-slide{padding:0 100px;}
+.content-wapper .testi-block .testi-slide .see-all a{padding: 8px 15px;}
+.content-wapper .form-block .form-box form .form-row .form-input{max-width: 240px;}
+
+
+
+.content-wapper .nation-block{padding:0 50px;}
+
+.content-wapper .energy-block{padding:62px 0 0 0;}
+.content-wapper .form-block{padding:45px 50px;}
+
+.content-wapper .call-block h4::before{width:550px; background-size:550px !important; height:421px; right:90px;}
+
+.footer-wapper .top-footer{padding:0 35px;}
+.footer-wapper .bottom-footer{padding:10px 35px;}
+.footer-wapper .top-footer .left-part .inner-top span{font-size:14px;}
+.footer-wapper .top-footer .left-part .inner-top ul li a{font-size:14px;}
+.footer-wapper .top-footer .left-part .inner-top ul li{font-size:14px;}
+.footer-wapper .top-footer .mid-part{padding:0 10px;}
+.footer-wapper .top-footer .mid-part .inner-top ul li{margin:0 10px 0 0;}
+
+
+
+.content-wapper .about-top-block .top-block{padding:52px 0;}
+.content-wapper .about-top-block .top-block h2{margin:0 0 42px 0;}
+
+
+.content-wapper .solar-md-sample .solar-md-box{padding:120px 35px}
+.nxt-stp-blk{padding: 120px 55px;}
+.nxt-box h4{font-size:18px;}
+.content-wapper .resi-top-block .resi-block .top-box p{padding:0 35px;}
+.content-wapper .solar-md-sample .solar-md-box .solar-md-bx p{padding:0 15px;}
+.content-wapper .solar-pv-block .solar-pv-txt{top:65px; padding:0 105px 0 100px}
+.content-wapper .solar-pv-block .solar-pv-txt p{padding:0 0 20px 0;}
+.slider-part{padding:40px 50px 40px 375px}
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+.header-wapper{padding:15px 25px 17px 25px} 
+.header-wapper .mobile-btn{display:inline-block;}
+
+.header-wapper .navi > ul{width:100%; padding:0;}
+.header-wapper .navi > ul > li{margin: 0; width:100%; padding:0px; border-top:solid 1px #36a9e1}
+/*.header-wapper .navi > ul > li:hover{pointer-events: none;}*/
+.header-wapper .navi > ul > li > ul.sub-menu{position:relative; margin:0; left:auto; top:auto; opacity:1; visibility:visible; display:none; width:100%; float:left;  padding: 0; 
+-webkit-transition: none;
+-moz-transition: none;
+-ms-transition: none;
+-o-transition: none;
+transition: none;}
+.header-wapper .navi > ul > li:hover > ul.sub-menu{position:relative; margin:0; left:auto; top:auto; opacity:1; visibility:visible;
+-webkit-transition: none;
+-moz-transition: none;
+-ms-transition: none;
+-o-transition: none;
+transition: none;
+}
+.header-wapper .navi > ul > li > ul.sub-menu > li > .dropdown-image{display:none;}
+.header-wapper .navi > ul > li > ul.sub-menu.image-bg > li{max-width:100%; border-top: solid 1px #36a9e1;}
+.header-wapper .navi > ul > li > ul.sub-menu > li{max-width:100%; border-top: solid 1px #36a9e1;}
+.header-wapper .searchbar{right:5px;}
+.header-wapper .navi > ul > li > a{width:100%; padding:7px 15px;}
+.header-wapper .navi > ul > li > a.at-drop-down > .fa{right: 0; border-left: solid 1px #36a9e1; padding: 9px 10px; top:0;}
+.header-wapper .navi > ul > li > ul.sub-menu.image-bg > li:first-child,
+.header-wapper .navi > ul > li > ul.sub-menu.image-bg > li:last-child{padding:0;}
+.header-wapper .navi > ul > li > ul.sub-menu > li > a{padding:5px 20px;}
+
+.header-wapper .navi > ul > li > ul.sub-menu > li.active > .dropdown-image, 
+.header-wapper .navi > ul > li > ul.sub-menu > li:hover > .dropdown-image{display:none;}
+.header-wapper .navi{width:100%; opacity:0; visibility:hidden; z-index:-9999; margin:-15px 0 0 0; bottom:100%; position:absolute; left:0; top:auto; backface-visibility:hidden; background: #fff} 
+.header-wapper .navi.active{opacity:1; visibility:visible;margin:0; top:130px; bottom:auto;}
+
+
+.banner-wapper .banner-block.resi{padding:0 0 03.01% 0;}
+.banner-wapper .banner-block{padding: 0 0 8.08% 0; background-size:contain !important; background-position: center center !important;}
+.banner-wapper .banner-block .banner-cap{margin: 80px 0 0 0px;}
+.banner-wapper .banner-block .banner-cap h2{font-size:24px;}
+.banner-wapper .banner-block .banner-cap h3{font-size:18px;}
+.banner-wapper .banner-block .banner-cap h4{font-size:18px;}
+
+.content-wapper .about-block{padding:52px 0px;}
+.content-wapper .innovation-block{padding:54px 0;}
+.content-wapper .innovation-block h2{margin:0 0 47px 0;}
+.content-wapper .innovation-block .innovation-box p{padding:0 25px;}
+
+.content-wapper .project-block{padding:54px 30px 0 30px;}
+.content-wapper .project-block a{width:auto; padding:13px 30px;}
+.content-wapper .project-block .project-box{margin:0 0 70px 0;}
+.content-wapper .project-block .project-box p{padding:0 20px;}
+
+
+.content-wapper .testi-block{padding: 64px 0;}
+.content-wapper .testi-block .testi-slide{padding:0 100px;}
+.content-wapper .testi-block .testi-slide .see-all a{padding: 8px 15px;}
+.content-wapper .form-block .form-box form .form-row .form-input{max-width: 100%; margin:0 0 20px 0;}
+.content-wapper .form-block .form-box form .form-row .input-submit{margin:22px 20px 0 0}
+
+
+.content-wapper .nation-block{padding:0 50px;}
+.content-wapper .nation-block .nation-text > a.get-quote{margin:27px 0 20px 0}
+
+.content-wapper .energy-block{padding:62px 0 0 0;}
+.content-wapper .form-block{padding:45px 50px;}
+
+.content-wapper .call-block h4::before{}
+
+
+.footer-wapper .top-footer{padding:0 35px;}
+.footer-wapper .bottom-footer{padding:10px 35px;}
+.footer-wapper .top-footer .left-part,
+.footer-wapper .top-footer .mid-part,
+.footer-wapper .top-footer .righ-part{width:100%;}
+.footer-wapper .top-footer .left-part .inner-top span{font-size:14px;}
+.footer-wapper .top-footer .left-part .inner-top ul li a{font-size:14px;}
+.footer-wapper .top-footer .left-part .inner-top ul li{font-size:14px;}
+.footer-wapper .top-footer .mid-part{padding:0 10px;}
+.footer-wapper .top-footer .mid-part .inner-top ul li{margin:0 10px 0 0;}
+.footer-wapper .top-footer .right-part{float:left;}
+.footer-wapper .top-footer .mid-part .inner-top,
+.footer-wapper .top-footer .right-part .inner-top{margin:0 0 40px 0;}
+.col-lg-6{flex: 0 0 100%; max-width: 100%;}
+.content-wapper .form-block .form-box{padding:0;}
+.content-wapper .form-block .form-box form{margin:40px 0 0 0;}
+.content-wapper .form-block .form-box form .form-row .input-submit{margin:22px 0 0 0}
+.content-wapper .form-block .form-box form .form-row.w-300{max-width: 100%;}
+.content-wapper .call-block h4::before{display:none;}
+.footer-wapper .top-footer .right-part .inner-top{text-align:left;}
+.footer-wapper .top-footer .right-part .checktrade{text-align:left;}
+
+
+
+.content-wapper .about-top-block .top-block{padding:52px 0;}
+.content-wapper .about-top-block .top-block h2{margin:0 0 42px 0; max-width:100%;}
+.content-wapper .innovation-block.sample h2{max-width:100%; padding:0 15px;}
+
+
+.content-wapper .testi-block.testi-page-slider{padding:84px 0 0 0;}
+.content-wapper .testi-block h2.testi{margin:0;}
+
+
+.content-wapper .resi-top-block .resi-block{padding:52px 0;}
+.content-wapper .resi-top-block .resi-block .top-box h4{font-size:18px;}
+
+.content-wapper .solar-md-sample .solar-md-box{padding:120px 35px}
+.nxt-stp-blk{padding: 120px 55px;}
+.nxt-box h4{font-size:18px;}
+.content-wapper .resi-top-block .resi-block .top-box p{padding:0;}
+.content-wapper .solar-md-sample .solar-md-box .solar-md-bx p{padding:0 15px;}
+.content-wapper .solar-pv-block{background:#36a9e1;}
+.content-wapper .solar-pv-block .solar-pv-txt{top:auto; padding:50px 105px 50px 100px; position:relative; width:100%; }
+.content-wapper .solar-pv-block .solar-pv-txt p{padding:0 0 20px 0;}
+.testi-top-sld{text-align:center;}
+.testi-top-sld img{display:inline-block; float:none; margin:15px 0 0 0;}
+.slider-part{padding:40px 10px 40px 10px; display:inline-block; width:100%;}
+.content-wapper .solar-md-sample .solar-md-box .solar-md-bx{width:100%; margin:0 0 20px 0;}
+.nxt-box{width:100%; padding:0;}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+.header-wapper{padding:15px 25px 17px 25px} 
+.header-wapper .mobile-btn{display:inline-block;}
+
+.header-wapper .navi > ul{width:100%; padding:0;}
+.header-wapper .navi > ul > li{margin: 0; width:100%; padding:0px; border-top:solid 1px #36a9e1}
+/*.header-wapper .navi > ul > li:hover{pointer-events: none;}*/
+.header-wapper .navi > ul > li > ul.sub-menu{position:relative; margin:0; left:auto; top:auto; opacity:1; visibility:visible; display:none; width:100%; float:left;  padding: 0; 
+-webkit-transition: none;
+-moz-transition: none;
+-ms-transition: none;
+-o-transition: none;
+transition: none;}
+.header-wapper .navi > ul > li:hover > ul.sub-menu{position:relative; margin:0; left:auto; top:auto; opacity:1; visibility:visible;
+-webkit-transition: none;
+-moz-transition: none;
+-ms-transition: none;
+-o-transition: none;
+transition: none;
+}
+.header-wapper .navi > ul > li > ul.sub-menu > li > .dropdown-image{display:none;}
+.header-wapper .navi > ul > li > ul.sub-menu.image-bg > li{max-width:100%; border-top: solid 1px #36a9e1;}
+.header-wapper .navi > ul > li > ul.sub-menu > li{max-width:100%; border-top: solid 1px #36a9e1;}
+.header-wapper .searchbar{right:5px;}
+.header-wapper .navi > ul > li > a{width:100%; padding:7px 15px;}
+.header-wapper .navi > ul > li > a.at-drop-down > .fa{right: 0; border-left: solid 1px #36a9e1; padding: 9px 10px; top:0;}
+.header-wapper .navi > ul > li > ul.sub-menu.image-bg > li:first-child,
+.header-wapper .navi > ul > li > ul.sub-menu.image-bg > li:last-child{padding:0;}
+.header-wapper .navi > ul > li > ul.sub-menu > li > a{padding:5px 20px;}
+
+.header-wapper .navi > ul > li > ul.sub-menu > li.active > .dropdown-image, 
+.header-wapper .navi > ul > li > ul.sub-menu > li:hover > .dropdown-image{display:none;}
+
+
+.header-wapper .navi{width:100%; opacity:0; visibility:hidden; z-index:-9999; margin:-15px 0 0 0; bottom:100%; position:absolute; left:0; top:auto; backface-visibility:hidden; background: #fff} 
+.header-wapper .navi.active{opacity:1; visibility:visible;margin:0; top:130px; bottom:auto;} 
+
+
+
+.content-wapper .about-block .about-text h2{font-size:21px; line-height:26px;}
+.content-wapper .testi-block .testi-slide{padding:0 50px;}
+.content-wapper .innovation-block .innovation-box p,
+.content-wapper .project-block .project-box p{padding:0 ;}
+
+.content-wapper .form-block .form-box form .form-row .form-input{max-width: 100%; margin:0 0 20px 0;}
+.content-wapper .form-block .form-box form .form-row .input-submit{margin:22px 20px 0 0}
+
+
+
+
+
+
+.banner-wapper .banner-block{padding: 0 0 8.08% 0; background-size:contain !important;}
+.banner-wapper .banner-block .banner-cap{margin: 80px 0 0 0px;}
+
+.banner-wapper .banner-block{padding: 0 0 8.08% 0; background-size:contain !important; background-position: center center !important;}
+.banner-wapper .banner-block.resi{background-size:cover !important; background-position: right top !important;}
+.banner-wapper .banner-block .banner-cap{margin: 80px 0 0 0px;}
+.banner-wapper .banner-block .banner-cap h2{font-size:24px;}
+.banner-wapper .banner-block .banner-cap h3{font-size:18px;}
+.banner-wapper .banner-block .banner-cap h4{font-size:18px;}
+
+.content-wapper .about-block{padding:52px 70px;}
+.content-wapper .innovation-block{padding:54px 0;}
+.content-wapper .innovation-block h2{margin:0 0 47px 0;}
+.content-wapper .innovation-block .innovation-box p{padding:0 25px;}
+
+.content-wapper .project-block{padding:54px 30px 0 30px;}
+.content-wapper .project-block a{width:auto; padding:13px 30px;}
+.content-wapper .project-block .project-box{margin:0 0 70px 0;}
+.content-wapper .project-block .project-box p{padding:0 20px;}
+.content-wapper .about-block .about-slide{max-width:100%; margin:30px 0 0 0;}
+
+.content-wapper .testi-block{padding: 64px 0;}
+.content-wapper .testi-block .testi-slide{padding:0 100px;}
+.content-wapper .testi-block .testi-slide .see-all a{padding: 8px 15px;}
+.content-wapper .form-block .form-box form .form-row .form-input{max-width: 100%; margin:0 0 20px 0}
+.content-wapper .testi-block .testi-video-block .play-icon{width:83px; height:83px;  border: solid 6px #fff;}
+.content-wapper .testi-block .testi-video-block .play-icon .fa{font-size:30px;}
+.content-wapper .nation-block .nation-text > a.get-quote{margin: 27px 0 27px 0;}
+
+
+.content-wapper .energy-block p{padding:9px 20px 24px}
+.content-wapper .nation-block{padding:0 50px;}
+
+.content-wapper .energy-block{padding:62px 0 0 0;}
+.content-wapper .form-block{padding:45px 50px;}
+
+.content-wapper .call-block h4::before{width:550px; background-size:550px !important; height:421px; right:90px;}
+
+.footer-wapper .top-footer{padding:0 35px;}
+.footer-wapper .bottom-footer{padding:10px 35px;}
+.footer-wapper .top-footer .left-part .inner-top span{font-size:14px;}
+.footer-wapper .top-footer .left-part .inner-top ul li a{font-size:14px;}
+.footer-wapper .top-footer .left-part .inner-top ul li{font-size:14px;}
+.footer-wapper .top-footer .mid-part{padding:0 10px;}
+.footer-wapper .top-footer .mid-part .inner-top ul li{margin:0 10px 0 0;}
+.col-md-4,
+.col-md-6{flex: 0 0 100%; max-width: 100%;}
+.content-wapper .form-block .form-box{padding:0;}
+.content-wapper .form-block .form-box form{margin:40px 0 0 0;}
+.content-wapper .form-block .form-box form .form-row .input-submit{margin:22px 0 0 0}
+.content-wapper .form-block .form-box form .form-row.w-300{max-width: 100%;}
+.content-wapper .call-block h4::before{display:none;}
+.footer-wapper .top-footer .right-part .inner-top{text-align:left;}
+
+.footer-wapper .top-footer .right-part{float:left;}
+.footer-wapper .top-footer{padding:0 35px;}
+.footer-wapper .bottom-footer{padding:10px 35px;}
+.footer-wapper .top-footer .left-part,
+.footer-wapper .top-footer .mid-part,
+.footer-wapper .top-footer .righ-part{width:100%;}
+.footer-wapper .top-footer .left-part .inner-top span{font-size:14px;}
+.footer-wapper .top-footer .left-part .inner-top ul li a{font-size:14px;}
+.footer-wapper .top-footer .left-part .inner-top ul li{font-size:14px;}
+.footer-wapper .top-footer .mid-part{padding:0 10px;}
+.footer-wapper .top-footer .mid-part .inner-top ul li{margin:0 10px 0 0;}
+.footer-wapper .top-footer .right-part .inner-top{margin:0 0 40px 0;}
+
+.footer-wapper .bottom-footer .left-part,
+.footer-wapper .bottom-footer .right-part{width:100%; text-align:center;}
+.footer-wapper .bottom-footer .left-part span{display:inline-block; float:none;}
+.footer-wapper .bottom-footer .left-part ul{display:inline-block; float:none;}
+.footer-wapper .bottom-footer .right-part a{display:inline-block; float:none;}
+.footer-wapper .bottom-footer .right-part span{display:inline-block; float:none;}
+.footer-wapper .top-footer .right-part .checktrade{text-align:left;}
+
+.content-wapper .about-top-block .top-block{padding:52px 0;}
+.content-wapper .about-top-block .top-block h2{margin:0 0 42px 0; font-size:30px; line-height:38px;}
+.content-wapper .innovation-block.sample h2{max-width:100%; padding:0 15px;}
+
+.content-wapper .testi-block.testi-page-slider{padding:84px 0 0 0;}
+.content-wapper .testi-block h2.testi{margin:0;}
+
+
+
+.content-wapper .resi-top-block .resi-block{padding:52px 0;}
+.content-wapper .resi-top-block .resi-block .top-box h4{font-size:18px;}
+
+.content-wapper .solar-md-sample .solar-md-box{padding:120px 35px}
+.nxt-stp-blk{padding: 120px 55px;}
+.nxt-box h4{font-size:18px;}
+.content-wapper .resi-top-block .resi-block .top-box p{padding:0 35px;}
+.content-wapper .solar-md-sample .solar-md-box .solar-md-bx p{padding:0 15px;}
+.content-wapper .solar-pv-block{background:#36a9e1;}
+.content-wapper .solar-pv-block .solar-pv-txt{top:auto; padding:50px 105px 50px 100px; position:relative; width:100%; }
+.content-wapper .solar-pv-block .solar-pv-txt p{padding:0 0 20px 0;}
+.testi-top-sld{text-align:center;}
+.testi-top-sld img{display:inline-block; float:none; margin:15px 0 0 0;}
+.slider-part{padding:40px 10px 40px 10px; display:inline-block; width:100%;}
+.content-wapper .solar-md-sample .solar-md-box .solar-md-bx{width:100%; margin:0 0 20px 0;}
+.nxt-box{width:100%; padding:0;}
+}
+
+
+@media (max-width: 767px){
+.header-wapper{padding:15px 25px 17px 25px} 
+.header-wapper .mobile-btn{display:inline-block;}
+
+.header-wapper .navi > ul{width:100%; padding:0;}
+.header-wapper .navi > ul > li{margin: 0; width:100%; padding:0px; border-top:solid 1px #36a9e1}
+/*.header-wapper .navi > ul > li:hover{pointer-events: none;}*/
+.header-wapper .navi > ul > li > ul.sub-menu{position:relative; margin:0; left:auto; top:auto; opacity:1; visibility:visible; display:none; width:100%; float:left;  padding: 0; 
+-webkit-transition: none;
+-moz-transition: none;
+-ms-transition: none;
+-o-transition: none;
+transition: none;}
+.header-wapper .navi > ul > li:hover > ul.sub-menu{position:relative; margin:0; left:auto; top:auto; opacity:1; visibility:visible;
+-webkit-transition: none;
+-moz-transition: none;
+-ms-transition: none;
+-o-transition: none;
+transition: none;
+}
+.header-wapper .navi > ul > li > ul.sub-menu > li > .dropdown-image{display:none;}
+.header-wapper .navi > ul > li > ul.sub-menu.image-bg > li{max-width:100%; border-top: solid 1px #36a9e1;}
+.header-wapper .navi > ul > li > ul.sub-menu > li{max-width:100%; border-top: solid 1px #36a9e1;}
+.header-wapper .searchbar{right:5px;}
+.header-wapper .navi > ul > li > a{width:100%; padding:7px 15px;}
+.header-wapper .navi > ul > li > a.at-drop-down > .fa{right: 0; border-left: solid 1px #36a9e1; padding: 9px 10px; top:0;}
+.header-wapper .navi > ul > li > ul.sub-menu.image-bg > li:first-child,
+.header-wapper .navi > ul > li > ul.sub-menu.image-bg > li:last-child{padding:0;}
+.header-wapper .navi > ul > li > ul.sub-menu > li > a{padding:5px 20px;}
+
+.header-wapper .navi > ul > li > ul.sub-menu > li.active > .dropdown-image, 
+.header-wapper .navi > ul > li > ul.sub-menu > li:hover > .dropdown-image{display:none;}
+
+
+.header-wapper .navi{width:100%; opacity:0; visibility:hidden; z-index:-9999; margin:-15px 0 0 0; bottom:100%; position:absolute; left:0; top:auto; backface-visibility:hidden; background: #fff} 
+.header-wapper .navi.active{opacity:1; visibility:visible;margin:0; top:130px; bottom:auto;}
+
+
+.content-wapper .about-block .about-text h2{font-size:21px; line-height:26px;}
+.content-wapper .testi-block .testi-slide{padding:0 50px;}
+.content-wapper .innovation-block .innovation-box p,
+.content-wapper .project-block .project-box p{padding:0 ;}
+
+.content-wapper .form-block .form-box form .form-row .form-input{max-width: 100%; margin:0 0 20px 0;}
+.content-wapper .form-block .form-box form .form-row .input-submit{margin:22px 20px 0 0}
+
+
+
+
+
+
+.banner-wapper .banner-block{padding: 0 0 8.08% 0; background-size:contain !important;}
+.banner-wapper .banner-block .banner-cap{margin: 80px 0 0 0px; padding:0 15px;}
+.banner-wapper .banner-block.resi{background-size:cover !important; background-position: right top !important;}
+
+.banner-wapper .banner-block{padding: 0 0 8.08% 0; background-size:contain !important; background-position: center center !important;}
+.banner-wapper .banner-block .banner-cap{margin: 20px 0 0 0px;}
+.banner-wapper .banner-block .banner-cap h2{font-size:18px;}
+.banner-wapper .banner-block .banner-cap h3{font-size:14px;}
+.banner-wapper .banner-block .banner-cap h4{font-size:14px; padding: 15px 0 9px 0;}
+.banner-wapper .banner-block .banner-cap a{width:auto; padding:14px 20px;}
+
+.content-wapper .about-block{padding:52px 15px;}
+.content-wapper .innovation-block{padding:54px 15px;}
+.content-wapper .innovation-block h2{margin:0 0 47px 0; font-size:20px; line-height:26px;}
+.content-wapper .innovation-block .innovation-box{margin:0 0 20px 0;}
+.content-wapper .innovation-block .innovation-box p{padding:0 25px;}
+
+.content-wapper .project-block{padding:54px 15px 0 15px;}
+.content-wapper .project-block a{width:auto; padding:13px 30px;}
+.content-wapper .project-block .project-box{margin:0 0 70px 0;}
+.content-wapper .project-block .project-box p{padding:0 20px;}
+.content-wapper .about-block .about-slide{max-width:100%; margin:30px 0 0 0;}
+
+
+.nxt-stp-blk h2,
+.nxt-stp-blk h6,
+.resi-coll h2,
+.content-wapper .solar-md-sample h2,
+.content-wapper .solar-md-sample span,
+.content-wapper .solar-pv-block .solar-pv-txt h2,
+.content-wapper .resi-top-block .resi-block h2,
+.content-wapper .project-block h2,
+.content-wapper .testi-block h2,
+.content-wapper .energy-block h2,
+.content-wapper .form-block .form-text h2,
+.content-wapper .call-block h4{font-size:24px; line-height:30px;}
+.content-wapper .project-block .project-box h4{padding:23px 0 26px 0;}
+.content-wapper .form-block .form-text span{font-size:18px; line-height:28px;}
+.content-wapper .energy-block p{font-size:18px; line-height:26px;}
+
+.content-wapper .testi-block{padding: 64px 15px;}
+.content-wapper .testi-block .testi-slide{padding:0 25px;}
+.content-wapper .testi-block .testi-slide .testi-inner .author-box{padding:30px 0;}
+.content-wapper .testi-block .testi-slide .testi-inner .review-box .review-text{padding:45px 10px 25px 10px;}
+.content-wapper .testi-block .testi-slide .see-all a{padding: 8px 15px; font-size:13px;}
+.content-wapper .form-block .form-box form .form-row .form-input{max-width: 100%; margin:0 0 20px 0}
+.content-wapper .testi-block .testi-video-block .play-icon{width:83px; height:83px;  border: solid 6px #fff;}
+.content-wapper .testi-block .testi-video-block .play-icon .fa{font-size:30px;}
+.content-wapper .nation-block .nation-text > a.get-quote{margin: 27px 0 27px 0;}
+
+
+.content-wapper .energy-block p{padding:9px 20px 24px}
+.content-wapper .nation-block{padding:0 15px;}
+
+.content-wapper .energy-block{padding:62px 0 0 0;}
+.content-wapper .form-block{padding:45px 15px;}
+.content-wapper .form-block .form-box p{max-width:100%;}
+
+.content-wapper .call-block h4::before{width:550px; background-size:550px !important; height:421px; right:90px;}
+
+.footer-wapper .top-footer{padding:0 35px;}
+.footer-wapper .bottom-footer{padding:10px 35px;}
+.footer-wapper .top-footer .left-part .inner-top span{font-size:14px;}
+.footer-wapper .top-footer .left-part .inner-top ul li a{font-size:14px;}
+.footer-wapper .top-footer .left-part .inner-top ul li{font-size:14px;}
+.footer-wapper .top-footer .mid-part{padding:0 10px;}
+.footer-wapper .top-footer .mid-part .inner-top ul li{margin:0 10px 0 0;}
+.col-md-4,
+.col-md-6{flex: 0 0 100%; max-width: 100%;}
+.content-wapper .form-block .form-box{padding:0;}
+.content-wapper .form-block .form-box form{margin:40px 0 0 0;}
+.content-wapper .form-block .form-box form .form-row .input-submit{margin:22px 0 0 0}
+.content-wapper .form-block .form-box form .form-row.w-300{max-width: 100%;}
+.content-wapper .call-block h4::before{display:none;}
+.footer-wapper .top-footer .right-part .inner-top{text-align:left;}
+
+.footer-wapper .top-footer .right-part{float:left;}
+.footer-wapper .top-footer{padding:0 15px;}
+.footer-wapper .bottom-footer{padding:10px 15px;}
+.footer-wapper .top-footer .left-part,
+.footer-wapper .top-footer .mid-part,
+.footer-wapper .top-footer .righ-part{width:100%;}
+.footer-wapper .top-footer .left-part .inner-top span{font-size:14px;}
+.footer-wapper .top-footer .left-part .inner-top ul li a{font-size:14px;}
+.footer-wapper .top-footer .left-part .inner-top ul li{font-size:14px;}
+.footer-wapper .top-footer .mid-part{padding:0 0;}
+.footer-wapper .top-footer .mid-part .inner-top ul li{margin:0 3px 0 0;}
+/*.footer-wapper .top-footer .mid-part .inner-top ul li a img{width:45px;}*/
+.footer-wapper .top-footer .right-part .checktrade a{padding:14px 15px}
+.footer-wapper .top-footer .right-part .inner-top{margin:0 0 40px 0;}
+
+.footer-wapper .bottom-footer .left-part,
+.footer-wapper .bottom-footer .right-part{width:100%; text-align:center;}
+.footer-wapper .bottom-footer .left-part span{display:inline-block; float:none;}
+.footer-wapper .bottom-footer .left-part ul{display:inline-block; float:none;}
+.footer-wapper .bottom-footer .right-part a{display:inline-block; float:none;}
+.footer-wapper .bottom-footer .right-part span{display:inline-block; float:none;}
+.footer-wapper .top-footer .right-part .checktrade{text-align:left;}
+
+
+
+.content-wapper .about-top-block .top-block{padding:52px 0;}
+.content-wapper .about-top-block .top-block h2{margin:0 0 42px 0; font-size:24px; line-height:30px; max-width:100%;}
+.content-wapper .innovation-block.sample h2{max-width:100%;}
+
+
+.content-wapper .testi-block.testi-page-slider{padding:84px 0 0 0;}
+.content-wapper .testi-block h2.testi{margin:0;}
+
+
+
+
+
+.content-wapper .resi-top-block .resi-block{padding:52px 0;}
+.content-wapper .resi-top-block .resi-block .top-box h4{font-size:18px;}
+
+.content-wapper .solar-md-sample .solar-md-box{padding:20px 15px}
+.nxt-stp-blk{padding:40px 15px;}
+.nxt-box h4{font-size:18px;}
+.content-wapper .resi-top-block .resi-block .top-box p{padding:0 15px;}
+.content-wapper .solar-md-sample .solar-md-box .solar-md-bx p{padding:0 15px;}
+.content-wapper .solar-pv-block{background:#36a9e1;}
+.content-wapper .solar-pv-block .solar-pv-txt{top:auto; padding:50px 15px 50px 10px; position:relative; width:100%; }
+.content-wapper .solar-pv-block .solar-pv-txt p{padding:0 0 20px 0;}
+.testi-top-sld{text-align:center;}
+.testi-top-sld img{display:inline-block; float:none; margin:15px 0 0 0;}
+.slider-part{padding:40px 10px 40px 10px; display:inline-block; width:100%;}
+.content-wapper .solar-md-sample .solar-md-box .solar-md-bx{width:100%; margin:0 0 20px 0;}
+
+.content-wapper .resi-top-block .resi-block .top-box{margin:0 0 20px 0}
+
+.nxt-box{width:100%; padding:0;}
+.content-wapper .solar-md-sample,
+.resi-coll{padding:52px 0;}
+.content-wapper .solar-md-sample .solar-md-box .solar-md-bx img{margin:0 0 10px 0;}
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767px){
+}
+@media (max-width: 575px){
+ 
+}
+@media (max-width: 359px){	
+ 
+}
